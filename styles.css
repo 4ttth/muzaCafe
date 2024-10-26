@@ -120,7 +120,7 @@ header nav ul li a:hover{
 } */
 
 .hero {
-	background-image: url("/media/place.png");
+	background-image: url("media/place.png");
 	background-size: cover;
 	background-position: center;
 	height: 88vh;
